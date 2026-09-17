@@ -134,7 +134,7 @@ The portfolio website is deployed using **GitHub Pages**.
 🔗 **Live Website:**
 Add your GitHub Pages URL here.
 
-
+https://minodi588.github.io/CodeAlpha_Portfolio/ 
 
 ## 📚 Learning Outcomes
 
